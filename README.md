@@ -1,3 +1,6 @@
+<h2> I'm Viswajeth TSR! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Software Developer Intern at <a href="https://fleettrack.in">Fleettrack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVraXB0N3IyajJmcHg1MzBldGszanFjNWpibTkxbDJybWgwdm5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 </div>
@@ -14,20 +17,8 @@
 </div>
 
 ###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-> <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ViswajethTSR from Nowhere<br><br>- 🔭 I’m working as App developer<br>- 📚 I'm currently learning Tensorflow<br>- ⚡ In my free time I will explore places</p>
-
-###
-
- > <h3 align="left">🛠 Language and tools</h3>
+  
+  <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -47,4 +38,26 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-###
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```typescript
+const viswajeth = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript","TypeScript","Dart","Java","Python"],
+    askMeAbout: ["web dev", "tech", "app dev", "IoT"],
+    technologies: {
+        app: ["Android","IoS","Web"],
+        frontEnd: {
+            flutter: ["Material","Dio","Flutter-Fire","Provider-State"],
+        },
+        backEnd: {
+            js: ["node"],
+            node: ["express","mongoose","axios","sharp","moment"]
+        },
+        devOps: ["Docker🐳","Kubernetes ☸"],
+        databases: ["MongoDb","Fire Store"],
+        misc: ["Firebase", "S3 Bucket"]
+    },
+    funFact: "Coding is very easy until it's hello world code"
+};
+```
