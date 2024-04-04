@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -55,11 +56,20 @@ const viswajeth = {
             node: ["express","mongoose","axios","sharp","moment"]
         },
         devOps: ["Docker🐳","Kubernetes ☸"],
-        databases: ["MongoDb","Fire Store"],
+        databases: ["MongoDb","Fire Store","MySql"],
         misc: ["Firebase", "S3 Bucket"]
     },
     funFact: "Coding is very easy until it's hello world code"
 };
 ```
+
+<div>
+<br></br>
+<p align="left">📊 My Github Stats</p>
+<p></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ViswajethTSR&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</div>
+<br></br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
