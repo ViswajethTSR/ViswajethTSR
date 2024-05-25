@@ -1,5 +1,5 @@
 <h2> I'm Viswajeth TSR! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Software Developer Intern at <a href="https://fleettrack.in">Fleettrack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<!-- <p><em>Software Developer Intern at <a href="https://fleettrack.in">Fleettrack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVraXB0N3IyajJmcHg1MzBldGszanFjNWpibTkxbDJybWgwdm5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
